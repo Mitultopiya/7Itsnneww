@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2134 2134" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-11823,-2468.40531)">
+        <g id="Meeting-Icon" serif:id="Meeting Icon" transform="matrix(1,0,0,1,-0.666667,2468.40531)">
+            <rect x="11823.667" y="0" width="2133.333" height="2133.333" style="fill:none;"/>
+            <g transform="matrix(44.444444,0,0,44.444444,7464.882526,-44101.59958)">
+                <g transform="matrix(0.547997,0,0,0.547997,104.11096,1002.556801)">
+                    <path d="M12.045,17.921L0,14.835L22.626,-7.792L25.726,4.313C19.324,6.487 14.248,11.538 12.045,17.921Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.86px;"/>
+                </g>
+                <g transform="matrix(0.547997,0,0,-0.547997,104.11096,1030.01518)">
+                    <path d="M12.045,17.921C14.247,11.537 19.323,6.486 25.726,4.311L22.626,-7.792L0,14.835L12.045,17.921Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.86px;"/>
+                </g>
+                <g transform="matrix(-0.547997,0,0,0.547997,140.109702,1002.556801)">
+                    <path d="M12.169,17.953C14.352,11.596 19.383,6.556 25.737,4.356L22.626,-7.792L0,14.835L12.169,17.953Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.86px;"/>
+                </g>
+                <g transform="matrix(-0.547997,0,0,-0.547997,140.109702,1030.01518)">
+                    <path d="M12.169,17.952L0,14.835L22.626,-7.792L25.736,4.354C19.382,6.555 14.351,11.595 12.169,17.952Z" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:0.86px;"/>
+                </g>
+                <g transform="matrix(0.478334,0,0,0.477819,-2769.011141,-904.840293)">
+                    <path d="M6035.99,3996.826C6038.526,3995.964 6041.243,3995.497 6044.069,3995.497C6046.948,3995.497 6049.714,3995.982 6052.291,3996.875L6046.93,4017.83L6067.834,4012.469C6068.711,4015.023 6069.187,4017.764 6069.187,4020.614C6069.187,4023.463 6068.711,4026.203 6067.835,4028.757L6046.93,4023.395L6052.291,4044.352C6049.715,4045.246 6046.948,4045.731 6044.069,4045.731C6041.243,4045.731 6038.526,4045.263 6035.989,4044.401L6041.363,4023.395L6020.316,4028.793C6019.432,4026.229 6018.952,4023.477 6018.952,4020.614C6018.952,4017.75 6019.432,4014.997 6020.317,4012.432L6041.363,4017.83L6035.99,3996.826Z" style="fill:none;stroke:black;stroke-width:0.98px;stroke-linecap:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(0.24,0,0,0.24,-1215,0)">
+                    <path d="M5523.799,4218.239C5528.829,4203.665 5540.419,4192.133 5555.036,4187.169L5565.745,4228.985L5523.799,4218.239Z" style="fill:rgb(247,26,39);stroke:black;stroke-width:1.95px;stroke-linecap:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(0.24,0,0,0.24,-1215,0)">
+                    <path d="M5555.035,4281.886C5540.417,4276.921 5528.827,4265.387 5523.797,4250.811L5565.745,4240.065L5555.035,4281.886Z" style="fill:rgb(247,26,39);stroke:black;stroke-width:1.95px;stroke-linecap:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(0.24,0,0,0.24,-1215,0)">
+                    <path d="M5587.526,4281.789L5576.841,4240.065L5618.506,4250.739C5613.522,4265.254 5602.035,4276.763 5587.526,4281.789Z" style="fill:rgb(247,26,39);stroke:black;stroke-width:1.95px;stroke-linecap:round;stroke-miterlimit:1.5;"/>
+                </g>
+                <g transform="matrix(0.24,0,0,0.24,-1215,0)">
+                    <path d="M5587.525,4187.266C5602.033,4192.29 5613.519,4203.798 5618.504,4218.311L5576.841,4228.985L5587.525,4187.266Z" style="fill:rgb(247,26,39);stroke:black;stroke-width:1.95px;stroke-linecap:round;stroke-miterlimit:1.5;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
