@@ -1,2 +1,2 @@
--superadmin@7techtraining.com
+-superadmin@7techtraining.com <br>
 -Password@123
